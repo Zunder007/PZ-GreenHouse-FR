@@ -17,4 +17,9 @@ Tooltip_FR = {
 	Tooltip_LightPole_Description = "",
 	Tooltip_SmallTable_Description = "",
 	Tooltip_LargeTable_Description = "",
+	Tooltip_CouchFront_Description = "",
+	Tooltip_CouchRear_Description = "",
+	Tooltip_Dresser_Description = "",
+	Tooltip_Bed_Description = "",
+	Tooltip_FlowerBed_Description = "",
 }
