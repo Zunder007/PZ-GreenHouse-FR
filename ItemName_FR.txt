@@ -1,0 +1,6 @@
+ItemName_FR = {
+    /* Glass Items */
+    ItemName_ImprovisedGlass.PanWithGlassShards = "Poêle avec des éclats de verre",
+    ItemName_ImprovisedGlass.PanWithGlassPane = "Poêle avec vitre",
+    ItemName_ImprovisedGlass.GlassPane = "Vitre"
+}
