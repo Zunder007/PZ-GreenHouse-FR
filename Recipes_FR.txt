@@ -1,0 +1,13 @@
+Recipe_FR = {
+    /* Make Glass Recipes */
+    Recipe_IGPrepareGlassShards = "Préparer le verre pour la fusion",
+    Recipe_IGUnprepareGlassShards = "Retirer le verre de la poêle",
+    Recipe_IGRemoveGlassPane = "Extraire la vitre",
+
+    /* Smash Glass Recipes */
+    Recipe_IGSmashGlassJar = "Écraser en verre brisé",
+    Recipe_IGSmashGlassPane = "Écraser en verre brisé",
+
+	Recipe_IGSmashWindows = "Briser les fenêtres",
+	Recipe_IGSmashWindshield = "Briser le pare-brise",
+}
